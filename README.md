@@ -3,12 +3,10 @@
 <img align="right" width = "350" src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-- 🔭 I’m currently working on **Cool Python Libraries**
-
 - 🌱 I’m currently learning **Data Pipeline Management, AWS** 
 - 📫 How to reach me **ksundeepone@gmail.com**
 
-- 📄 Know about my experiences [Resume_link](https://drive.google.com/file/d/12cABdi4oCsjB1uK_qPlShEisH208xKF-/view?usp=share_link)
+- 📄 Know about my experiences [Resume_link]([https://drive.google.com/file/d/12cABdi4oCsjB1uK_qPlShEisH208xKF-/view?usp=share_link](https://drive.google.com/file/d/12OtYLPL-WIoNQLE50J_N5sK17KosTsEO/view?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
