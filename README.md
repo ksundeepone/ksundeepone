@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Pipeline Management, AWS** 
 - 📫 How to reach me **ksundeepone@gmail.com**
 
-- 📄 Know about my experiences [Resume_link](https://rb.gy/23dkot)
+- 📄 Know about my experiences [Resume_link](https:///23dkot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
